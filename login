@@ -9,4 +9,5 @@ root
 Htz0luz1@n0c
 
 ===
-
+vm dns ng
+103.21.84.14
